@@ -234,8 +234,8 @@ header nav ul li a {
     font-size: 32px;
 }
 
-.contact-info p, .contact-info address{
-    margin 20px 0;
+.contact-info p, .contact-info address {
+    margin: 20px 0;
     font-size: 20px;
     line-height: 1.5;
     font-style: normal;
